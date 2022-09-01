@@ -1,3 +1,7 @@
+
+# ******** This is a program if you shutdown, Restart, Restart in some time using python ***********
+
+
 from tkinter import *
 import os
 

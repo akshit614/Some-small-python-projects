@@ -1,3 +1,8 @@
+
+# *************** This is a program to validate email ****************** 
+
+
+
 email = input("ENTER YOUR EMAIL TO VERIFY :")
 k,j,d=0,0,0
 if len(email)>=6:

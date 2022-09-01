@@ -1,4 +1,4 @@
-# Typing speed calculator
+# Typing speed calculator and it also calculates time
 
 
 from ast import Try

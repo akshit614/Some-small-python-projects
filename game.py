@@ -1,3 +1,8 @@
+
+# *********** This program is a game that we played in our chilhood (snake-water-gun game ) *******
+
+
+
 import random
 
 def game(compu, you):

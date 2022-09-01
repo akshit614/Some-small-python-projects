@@ -1,3 +1,8 @@
+
+
+# ******** This program is for block any website on your device *********
+
+
 from tkinter import *
 root = Tk()
 root.geometry('500x300')
